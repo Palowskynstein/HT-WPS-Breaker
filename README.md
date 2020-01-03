@@ -1,4 +1,4 @@
-# HT-WPS BREAKERl
+# HT-WPS BREAKER
 
 [ Languages: [English](README.md) ]
 
